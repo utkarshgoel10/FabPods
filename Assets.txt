@@ -1,0 +1,39 @@
+//FontAwesome
+<link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+
+//Navbar Icons
+<i class="fas fa-search"></i>
+<i class="fas fa-user"></i>
+<i class="fas fa-shopping-cart"></i>
+
+//Product stars
+<i class="fas fa-star"></i>
+<i class="far fa-star"></i>
+
+//Services Icons
+<i class="fas fa-running"></i>
+<i class="fas fa-microphone"></i>
+<i class="fas fa-temperature-high"></i>
+<i class="fas fa-street-view"></i>
+
+//Payment Images
+<img src="https://img.icons8.com/color/48/000000/visa.png" />
+<img src="https://img.icons8.com/fluency/48/000000/mastercard.png" />
+<img src="https://img.icons8.com/color/48/000000/discover.png" />
+<img src="https://img.icons8.com/color/48/000000/amex.png" />
+
+//Font family
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+font-family: 'Poppins', sans-serif;
+
+//colors
+color: #74B661;
+green: #62AD4C;
+gray: #F6F7F8;
+yellow: #FFD200;
+dark: #61ad4b;    
